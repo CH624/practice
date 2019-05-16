@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GamePlay",
+            "request": "launch",
+            "mainClass": "snake.GamePlay",
+            "projectName": "Snake"
+        }
+    ]
+}
